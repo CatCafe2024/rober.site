@@ -1,0 +1,16 @@
+_HiStOrY_V2_
+show\040tables;
+desc\040tabEmployee;
+show\040tables;
+select\040*\040from\040adopcion;
+select\040*\040from\040reserva;
+select\040*\040from\040reservas;
+select\040*\040from\040revisiones;
+select\040*\040from\040revision;
+select\040*\040from\040gato;
+select\040*\040from\040employee;
+show\040tables;
+select\040*\040from\040tabAdopcion
+;
+select\040*\040from\040tabUser;
+select\040password\040from\040tabUser;

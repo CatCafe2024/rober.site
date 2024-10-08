@@ -1,0 +1,18 @@
+2024-10-08 11:02:49,204 ERROR frappe New Exception collected in error log
+Site: catcafe.localhost
+Form Dict: {'data': '{"username":"Test","new_password":"test","doctype":"User","web_form_name":"register-form"}', 'web_form': 'register-form', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-10-08 11:02:51,255 ERROR frappe New Exception collected in error log
+Site: catcafe.localhost
+Form Dict: {'data': '{"username":"Test","new_password":"test","doctype":"User","web_form_name":"register-form"}', 'web_form': 'register-form', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-10-08 11:02:52,687 ERROR frappe New Exception collected in error log
+Site: catcafe.localhost
+Form Dict: {'data': '{"username":"Test","new_password":"test","doctype":"User","web_form_name":"register-form"}', 'web_form': 'register-form', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-10-08 11:02:53,471 ERROR frappe New Exception collected in error log
+Site: catcafe.localhost
+Form Dict: {'data': '{"username":"Test","new_password":"test","doctype":"User","web_form_name":"register-form"}', 'web_form': 'register-form', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-10-08 11:02:54,074 ERROR frappe New Exception collected in error log
+Site: catcafe.localhost
+Form Dict: {'data': '{"username":"Test","new_password":"test","doctype":"User","web_form_name":"register-form"}', 'web_form': 'register-form', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-10-08 11:16:30,974 ERROR frappe New Exception collected in error log
+Site: catcafe.localhost
+Form Dict: {'user': 'prueba@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
